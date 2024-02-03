@@ -1,12 +1,12 @@
-## AutoHotKey Scripts for Railroader
+## AutoHotkey Scripts for Railroader
 
-A repository for AutoHotKey scripts for the PC game Railroader. Scripts by ExocetC3i.
+A repository for AutoHotkey scripts for the PC game Railroader. Scripts by ExocetC3i.
 
 ## Instructions for Use
 
-1. Install [AutoHotKey v2](https://www.autohotkey.com/)
+1. Install [AutoHotkey v2](https://www.autohotkey.com/)
 2. Download _RailroaderScripts.ahk_ to your local PC to a location of your choosing.
-3. _**OPTIONAL **_ edit the script file to change the hotkey inputs to your liking. Reference the [AHK key list](https://www.autohotkey.com/docs/v2/KeyList.htm).
+3. **OPTIONAL** edit the script file to change the hotkey inputs to your liking. Reference the [AHK key list](https://www.autohotkey.com/docs/v2/KeyList.htm).
 4. Run the AHK script file 
 5. Play Railroader
 

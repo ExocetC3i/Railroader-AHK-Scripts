@@ -66,7 +66,7 @@ F5::
 {
 	SendInput "~"
 	Sleep 100
-	SendInput "/tp Ella{Enter}{Esc}"
+	SendInput "/tp Ela{Enter}{Esc}"
 }
 
 F6::

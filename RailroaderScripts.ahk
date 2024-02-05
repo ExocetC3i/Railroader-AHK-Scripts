@@ -38,3 +38,40 @@ Xbutton2::
 	Sleep 50
 	Send "{Shift up}{Ctrl up}{Click up}"
 }
+
+; Keybinds for teleporting to various locations
+
+F2::
+{
+	SendInput "~"
+	Sleep 100
+	SendInput "/tp ds{Enter}{Esc}"
+}
+
+F3::
+{
+	SendInput "~"
+	Sleep 100
+	SendInput "/tp `"East Whittier`"{Enter}{Esc}"
+}
+
+F4::
+{
+	SendInput "~"
+	Sleep 100
+	SendInput "/tp Whittier{Enter}{Esc}"
+}
+
+F5::
+{
+	SendInput "~"
+	Sleep 100
+	SendInput "/tp Ella{Enter}{Esc}"
+}
+
+F6::
+{
+	SendInput "~"
+	Sleep 100
+	SendInput "/tp Alarka{Enter}{Esc}"
+}

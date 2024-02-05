@@ -12,6 +12,7 @@ A repository for AutoHotkey scripts for the PC game Railroader. Scripts by Exoce
 
 ## Command List
 
-* Double-Click Left Mouse Button = Ctrl-Click to bring up the info panel for locomotives or cars
-* Mouse5 = Shift-Ctrl-Click to select a locomotive or car
-* Mouse4 = Toggle right mouse button to pan view around. Click Mouse4 or Right Mouse Button to disable the toggle.
+* Double-Click Left Mouse Button: Ctrl-Click to bring up the info panel for locomotives or cars
+* Mouse5: Shift-Ctrl-Click to select a locomotive or car
+* Mouse4: Toggle right mouse button to pan view around. Click Mouse4 or Right Mouse Button to disable the toggle.
+* F2-F5: Quick teleport keys. Bound to the following by default on F2 to F5, respectively; Dispatch Office (Bryson CTC), East Whittier, Whittier, Ela, Alarka.

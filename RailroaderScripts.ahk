@@ -40,7 +40,6 @@ Xbutton2::
 }
 
 ; Keybinds for teleporting to various locations
-
 ~F2::
 {
 	SendInput "~"
@@ -73,14 +72,14 @@ Xbutton2::
 {
 	SendInput "~"
 	Sleep 100
-	SendInput "/tp Alarka{Enter}{Esc}"
+	SendInput "/tp `"Alarka Jct`"{Enter}{Esc}"
 }
 
 ~F7::
 {
 	SendInput "~"
 	Sleep 100
-	SendInput "/tp Sylvia{Enter}{Esc}"
+	SendInput "/tp Sylva{Enter}{Esc}"
 }
 
 
@@ -88,5 +87,12 @@ Xbutton2::
 {
 	SendInput "~"
 	Sleep 100
-	SendInput "/tp Dilsboro{Enter}{Esc}"
+	SendInput "/tp Dillsboro{Enter}{Esc}"
+}
+
+~F9::
+{
+	SendInput "~"
+	Sleep 100
+	SendInput "/tp Andrews{Enter}{Esc}"
 }

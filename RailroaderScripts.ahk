@@ -1,7 +1,7 @@
 ﻿#Requires AutoHotkey v2.0
 
 ; Set of scripts to use for the game Railroader
-#HotIf WinActive("Railroader")
+#HotIf WinActive("ahk_exe Railroader.exe")
 
 ; Use Mouse 4 to toggle RMB for freelook
 XButton1:: 

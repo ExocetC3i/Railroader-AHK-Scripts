@@ -79,7 +79,7 @@ Xbutton2::
 {
 	SendInput "~"
 	Sleep 100
-	SendInput "/tp Sylva{Enter}{Esc}"
+	SendInput "/tp Alarka{Enter}{Esc}"
 }
 
 
@@ -94,5 +94,5 @@ Xbutton2::
 {
 	SendInput "~"
 	Sleep 100
-	SendInput "/tp Andrews{Enter}{Esc}"
+	SendInput "/tp Sylva{Enter}{Esc}"
 }
